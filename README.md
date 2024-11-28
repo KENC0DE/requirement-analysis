@@ -54,3 +54,25 @@ has a common understanding of the project goals and deliverables, which helps in
 5. **Enhances Quality Assurance**: Well-defined requirements serve as a benchmark for testing and validation. They provide clear
 criteria for what the software should achieve, making it easier to create test cases and ensure that the final product meets the
 specified requirements. This leads to higher quality software that performs as expected and satisfies user needs.
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**: This activity involves collecting information from all relevant stakeholders to understand their needs
+and expectations. Techniques such as interviews, surveys, questionnaires, and reviewing existing documentation are commonly used to
+gather requirements.
+
+- **Requirement Elicitation**: Elicitation goes beyond mere gathering; it involves engaging with stakeholders to draw out their
+implicit needs and uncover hidden requirements. Techniques like workshops, brainstorming sessions, and use case development are
+employed to elicit comprehensive requirements.
+
+- **Requirement Documentation**: Once requirements are gathered and elicited, they need to be documented in a clear and organized manner.
+This documentation serves as a reference for all stakeholders and includes detailed descriptions, use cases, user stories, and acceptance
+criteria.
+
+- **Requirement Analysis and Modeling**: In this activity, the documented requirements are analyzed to ensure they are complete,
+consistent, and feasible. Modeling techniques such as data flow diagrams, entity-relationship diagrams, and UML diagrams are used to
+visualize and better understand the requirements.
+
+- **Requirement Validation**: The final step involves validating the requirements to ensure they accurately reflect the stakeholders'
+needs and are feasible within the project's constraints. This is done through reviews, inspections, and validation meetings with
+stakeholders to confirm that the documented requirements are correct and complete.
