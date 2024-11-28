@@ -76,3 +76,30 @@ visualize and better understand the requirements.
 - **Requirement Validation**: The final step involves validating the requirements to ensure they accurately reflect the stakeholders'
 needs and are feasible within the project's constraints. This is done through reviews, inspections, and validation meetings with
 stakeholders to confirm that the documented requirements are correct and complete.
+
+## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements define the specific behavior or functions of a system. These requirements describe what the system should do
+and include tasks, data processing, and other specific functionalities.
+
+Examples for the booking management project:
+
+- **Hotel Listing Management**: The system should allow hotel managers to add, update, and delete hotel listings, including details such as room types, prices, availability, and amenities.
+- **Search Functionality**: Customers should be able to search for hotels based on various criteria such as location, price range, dates of stay, and amenities.
+- **Booking Process**: The system should enable customers to book a hotel room, including selecting dates, room type, and completing the payment process.
+- **Payment Integration**: The booking service should integrate with third-party payment gateways to process customer payments securely.
+- **Notification System**: The system should send notifications to customers and hotel managers for booking confirmations, cancellations, and special offers.
+
+### Non-functional Requirements
+
+Non-functional requirements define the quality attributes, performance, and constraints of the system. These requirements describe how the system performs a function rather than the specific behaviors.
+
+Examples for the booking management project:
+
+- **Performance**: The system should handle a high volume of user traffic and process requests within a specified response time to ensure a smooth user experience.
+- **Scalability**: The system should be scalable to accommodate increasing numbers of users and data without compromising performance.
+- **Reliability**: The system should be reliable, with minimal downtime and the ability to recover quickly from failures.
+- **Security**: The system should ensure the security of user data, including personal information and payment details, through encryption and secure authentication mechanisms.
+- **Usability**: The user interface should be intuitive and easy to navigate for both customers and hotel managers, providing a seamless experience across different devices and platforms.
