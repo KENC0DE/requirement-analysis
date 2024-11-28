@@ -103,3 +103,16 @@ Examples for the booking management project:
 - **Reliability**: The system should be reliable, with minimal downtime and the ability to recover quickly from failures.
 - **Security**: The system should ensure the security of user data, including personal information and payment details, through encryption and secure authentication mechanisms.
 - **Usability**: The user interface should be intuitive and easy to navigate for both customers and hotel managers, providing a seamless experience across different devices and platforms.
+
+## Use Case Diagrams
+
+### What are Use Case Diagrams?
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the interactions between users (actors) and the system. They illustrate the various use cases (functionalities) that the system provides and how different actors interact with these use cases. Use Case Diagrams help in understanding the functional requirements of a system and serve as a communication tool between stakeholders and developers.
+
+### Benefits of Use Case Diagrams
+
+- **Clarity**: They provide a clear and concise way to capture and communicate the functional requirements of a system.
+- **Visualization**: They help in visualizing the interactions between users and the system, making it easier to identify and understand the system's functionalities.
+- **Documentation**: They serve as a useful documentation tool that can be referred to throughout the development lifecycle.
+- **Stakeholder Communication**: They facilitate better communication between stakeholders, including clients, developers, and project managers, ensuring that everyone has a common understanding of the system's requirements.
